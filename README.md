@@ -1,1 +1,1 @@
-MERN application
+MERN application for Pet Adoptation Center
